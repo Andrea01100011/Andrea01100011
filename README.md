@@ -1,3 +1,4 @@
+***I’m the classic case of perseon who loves life and swims away from the mainstream***
 - 👋 Hi, I’m @Andrea01100011
 - 👀 I’m interested in k8s, golang, Linux O&M, 
 - 🌱 I’m currently learning mysql, python, prometheus + grafana, shell scripting, ansible.
