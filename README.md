@@ -20,21 +20,6 @@ I trade index futures and build software for the trading workflow. Most of my pr
 - **Trading tooling** — dashboards, news alerts, data pipelines, and automation.
 - **Infrastructure when needed** — Linux, Kubernetes, serverless, and observability.
 
-## Selected work
-
-### [FJ Red News Alert](https://github.com/Andrea01100011/financialjuice-red-news-alert)
-
-A bilingual Chrome extension that watches FinancialJuice for red headlines and reacts with sound, desktop notifications, and an on-page banner. Includes keyword filtering and local-only settings.
-
-### FlowDesk `in development`
-
-A local-first NQ futures dashboard: session levels, VWAP, FVG/SMC context, and a bridge from ATAS/Rithmic into a browser workspace. Built for the way I actually read the market.
-
-### Serverless experiments
-
-- [fc-tongyi-chat-web-noxd](https://github.com/Andrea01100011/fc-tongyi-chat-web-noxd) — a serverless Qwen chat service deployed with Serverless Devs.
-- [start-fc-kodbox-zj94](https://github.com/Andrea01100011/start-fc-kodbox-zj94) — one-click Kodbox deployment on Alibaba Cloud Function Compute.
-
 ## Toolbox
 
 `Python` `JavaScript` `Go` `Linux` `Kubernetes` `MySQL` `Prometheus` `Grafana` `Ansible` `Chrome Extensions`
@@ -62,12 +47,6 @@ A local-first NQ futures dashboard: session levels, VWAP, FVG/SMC context, and a
 - NQ / ES 日内交易：市场结构、关键价位、风险控制、执行
 - 交易工具：本地仪表盘、新闻提醒、数据管道、自动化
 - 基础设施：Linux、Kubernetes、Serverless、可观测性
-
-**代表项目**
-
-- **FJ Red News Alert**：监听 FinancialJuice 红色新闻，触发声音、系统通知和页面横幅的双语 Chrome 扩展。
-- **FlowDesk**（开发中）：面向 NQ 的本地交易仪表盘，包含会话价位、VWAP、FVG/SMC 和 ATAS/Rithmic 数据桥。
-- **Serverless 实验**：通义千问对话服务、阿里云函数计算上的 Kodbox 一键部署。
 
 **联系方式**：[andrea_li1893@yeah.net](mailto:andrea_li1893@yeah.net)
 
